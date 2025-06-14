@@ -1,0 +1,9 @@
+{
+  "name": "vercel-api-test-Tqkb4UA5",
+  "version": "1.0.0",
+  "description": "Testing Vercel API deployment integration",
+  "scripts": {
+    "build": "echo \"Static site - no build step required\"",
+    "start": "echo \"Static site deployed\""
+  }
+}
